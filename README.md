@@ -1,16 +1,57 @@
-## Hi there 👋
+# 👋 Hi, I'm Zaid
 
-<!--
-**ZaidFinanceTech/ZaidFinanceTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💼 MBA Finance | Business & Data Analytics
 
-Here are some ideas to get you started:
+I'm building my skills in **Finance, Business Analytics and Technology**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills & Tools
+
+- 📊 **Microsoft Excel**
+- 📈 **Power BI**
+- 🗄️ **SQL**
+- 🐍 **Python**
+- 🧮 **NumPy & Pandas**
+- 💼 **Tally Prime**
+- 🧾 **GST & Finance**
+- 📊 **Business & Data Analytics**
+
+---
+
+## 🎓 Education
+
+**MBA – Finance**  
+India 🇮🇳
+
+---
+
+## 📌 Areas of Interest
+
+- Business Analytics
+- Data Analytics
+- Financial Analysis
+- Business Intelligence
+- E-commerce & Business
+- Automation
+- Technology
+
+---
+
+## 🚀 Projects
+
+I'm currently building projects using:
+
+**Excel • Power BI • SQL • Python • Tally Prime**
+
+More projects coming soon...
+
+---
+
+## 📫 Connect With Me
+
+- 💻 GitHub: [@ZaidFinanceTech](https://github.com/ZaidFinanceTech)
+
+---
+
+### ⭐ Thanks for visiting my profile!
