@@ -41,55 +41,49 @@ Deoband, Uttar Pradesh · Completed
 ## 📊 Data & Analytics
 
 <div align="center">
-
 <table>
 <tr>
 <td align="center"><img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" width="55"><br><b>Excel</b></td>
 <td align="center"><img src="https://img.icons8.com/color/96/power-bi.png" width="55"><br><b>Power BI</b></td>
 <td align="center"><img src="https://img.icons8.com/color/96/sql.png" width="55"><br><b>SQL</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=python" width="55"><br><b>Python</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=pandas" width="55"><br><b>Pandas</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=numpy" width="55"><br><b>NumPy</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=matplotlib" width="55"><br><b>Matplotlib</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=jupyter" width="55"><br><b>Jupyter</b></td>
+<td align="center"><img src="https://cdn.simpleicons.org/python" width="55"><br><b>Python</b></td>
+<td align="center"><img src="https://cdn.simpleicons.org/pandas" width="55"><br><b>Pandas</b></td>
+<td align="center"><img src="https://cdn.simpleicons.org/numpy" width="55"><br><b>NumPy</b></td>
+<td align="center"><img src="https://cdn.simpleicons.org/matplotlib" width="55"><br><b>Matplotlib</b></td>
+<td align="center"><img src="https://cdn.simpleicons.org/jupyter" width="55"><br><b>Jupyter</b></td>
 </tr>
 </table>
-
 </div>
 
 ## 💰 Finance & Business
 
 <div align="center">
-
 <table>
 <tr>
-<td align="center">📒<br><b>Tally Prime</b></td>
-<td align="center">🧾<br><b>GST</b></td>
-<td align="center">📊<br><b>Financial Analysis</b></td>
-<td align="center">📈<br><b>Business Analytics</b></td>
-<td align="center">🧮<br><b>Accounting</b></td>
-<td align="center">💼<br><b>MS Office</b></td>
-<td align="center">🌐<br><b>Economics</b></td>
+<td align="center"><img src="https://img.icons8.com/color/96/accounting.png" width="55"><br><b>Tally Prime</b></td>
+<td align="center"><img src="https://img.icons8.com/color/96/tax.png" width="55"><br><b>GST</b></td>
+<td align="center"><img src="https://img.icons8.com/color/96/combo-chart--v1.png" width="55"><br><b>Financial Analysis</b></td>
+<td align="center"><img src="https://img.icons8.com/color/96/line-chart.png" width="55"><br><b>Business Analytics</b></td>
+<td align="center"><img src="https://img.icons8.com/color/96/calculator.png" width="55"><br><b>Accounting</b></td>
+<td align="center"><img src="https://img.icons8.com/color/96/microsoft-office-2019.png" width="55"><br><b>MS Office</b></td>
+<td align="center"><img src="https://img.icons8.com/color/96/economic-improvement.png" width="55"><br><b>Economics</b></td>
 </tr>
 </table>
-
 </div>
 
 ## 🌐 Other Skills
 
 <div align="center">
-
 <table>
 <tr>
-<td align="center">🎨<br><b>Canva</b></td>
-<td align="center">📗<br><b>Google Sheets</b></td>
-<td align="center">🛒<br><b>E-commerce</b></td>
-<td align="center">▶️<br><b>Content Creation</b></td>
-<td align="center">⚙️<br><b>Automation</b></td>
-<td align="center">🐙<br><b>GitHub</b></td>
+<td align="center"><img src="https://cdn.simpleicons.org/canva" width="55"><br><b>Canva</b></td>
+<td align="center"><img src="https://cdn.simpleicons.org/googlesheets" width="55"><br><b>Google Sheets</b></td>
+<td align="center"><img src="https://img.icons8.com/color/96/shopping-cart.png" width="55"><br><b>E-commerce</b></td>
+<td align="center"><img src="https://img.icons8.com/color/96/video-editing.png" width="55"><br><b>Content Creation</b></td>
+<td align="center"><img src="https://img.icons8.com/color/96/automation.png" width="55"><br><b>Automation</b></td>
+<td align="center"><img src="https://cdn.simpleicons.org/github" width="55"><br><b>GitHub</b></td>
 </tr>
 </table>
-
 </div>
 
 ---
