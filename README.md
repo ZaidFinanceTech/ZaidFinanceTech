@@ -2,13 +2,12 @@
 
 # 👋 Hi, I'm <span style="color:#58a6ff">Zaid</span>
 
-### MBA Finance Student · Business & Data Analytics
+### MBA Finance Student | Turning Data into Business Insights
 
-**Learn · Build · Apply · Grow** 🚀
+*I'm passionate about Finance, Data Analytics, and Business Automation.*  
+*I use Excel, Power BI, SQL and Python to solve practical business problems.* 🚀
 
-<p>
-  <em>Turning financial and business data into practical insights.</em>
-</p>
+**Learn · Build · Apply · Grow**
 
 </div>
 
@@ -18,14 +17,14 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
-### 💼 MBA — Finance
+### 🎓 MBA — Finance
 **Islamia Degree College, Deoband**  
 2025–2027 · Pursuing
 
 </td>
-<td width="50%">
+<td width="50%" align="center">
 
 ### 🎓 B.Sc. — PCM
 **Physics · Chemistry · Mathematics**  
@@ -37,39 +36,74 @@ Deoband, Uttar Pradesh · Completed
 
 ---
 
-## 🛠️ Skills & Tools
+# 🛠️ Skills & Tools
 
-### 📊 Data & Analytics
+## 📊 Data & Analytics
 
-<p>
-<img src="https://skillicons.dev/icons?i=python" width="48" title="Python" />
-<img src="https://skillicons.dev/icons?i=mysql" width="48" title="SQL" />
-<img src="https://skillicons.dev/icons?i=pycharm" width="48" title="Python tools" />
-<img src="https://skillicons.dev/icons?i=jupyter" width="48" title="Jupyter" />
-</p>
+<div align="center">
 
-**Excel · Power BI · SQL · Python · Pandas · NumPy · Matplotlib · Jupyter**
+<table>
+<tr>
+<td align="center"><img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" width="55"><br><b>Excel</b></td>
+<td align="center"><img src="https://img.icons8.com/color/96/power-bi.png" width="55"><br><b>Power BI</b></td>
+<td align="center"><img src="https://img.icons8.com/color/96/sql.png" width="55"><br><b>SQL</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=python" width="55"><br><b>Python</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=pandas" width="55"><br><b>Pandas</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=numpy" width="55"><br><b>NumPy</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=matplotlib" width="55"><br><b>Matplotlib</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=jupyter" width="55"><br><b>Jupyter</b></td>
+</tr>
+</table>
 
-### 💰 Finance & Business
+</div>
 
-`Tally Prime` · `GST` · `Financial Analysis` · `Business Analytics` · `Accounting` · `MS Office` · `Economics`
+## 💰 Finance & Business
 
-### 🌐 Other Skills
+<div align="center">
 
-`Canva` · `Google Sheets` · `E-commerce` · `Content Creation` · `Business Automation`
+<table>
+<tr>
+<td align="center">📒<br><b>Tally Prime</b></td>
+<td align="center">🧾<br><b>GST</b></td>
+<td align="center">📊<br><b>Financial Analysis</b></td>
+<td align="center">📈<br><b>Business Analytics</b></td>
+<td align="center">🧮<br><b>Accounting</b></td>
+<td align="center">💼<br><b>MS Office</b></td>
+<td align="center">🌐<br><b>Economics</b></td>
+</tr>
+</table>
+
+</div>
+
+## 🌐 Other Skills
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">🎨<br><b>Canva</b></td>
+<td align="center">📗<br><b>Google Sheets</b></td>
+<td align="center">🛒<br><b>E-commerce</b></td>
+<td align="center">▶️<br><b>Content Creation</b></td>
+<td align="center">⚙️<br><b>Automation</b></td>
+<td align="center">🐙<br><b>GitHub</b></td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
 ### 📊 Financial Analysis Dashboard
-Power BI dashboards for financial and business data analysis.
+Interactive Power BI dashboard for business and finance data analysis.
 
-**Power BI · Excel · Business Analytics**
+`Power BI` `Excel` `Business Analytics`
 
 </td>
 <td width="50%">
@@ -77,7 +111,7 @@ Power BI dashboards for financial and business data analysis.
 ### 📈 Excel Finance Models
 Financial modelling, budgeting, forecasting and ratio analysis.
 
-**Excel · Finance · Financial Modelling**
+`Excel` `Finance` `Financial Modelling`
 
 </td>
 </tr>
@@ -85,9 +119,9 @@ Financial modelling, budgeting, forecasting and ratio analysis.
 <td width="50%">
 
 ### 🗄️ SQL Business Analysis
-SQL-based analysis of business datasets and decision-making insights.
+SQL queries and analysis of real business datasets.
 
-**SQL · Data Analytics · BI**
+`SQL` `Data Analysis` `Business Intelligence`
 
 </td>
 <td width="50%">
@@ -95,29 +129,24 @@ SQL-based analysis of business datasets and decision-making insights.
 ### 🐍 Python Finance Projects
 Python projects for data analysis, finance and business automation.
 
-**Python · Pandas · Finance · Automation**
+`Python` `Pandas` `Finance` `Automation`
 
 </td>
 </tr>
 </table>
 
-> 🚧 Projects are being built and will be added here as public repositories.
+> 🚧 These are planned/ongoing project areas. Public repositories will be linked here as they are completed.
 
 ---
 
-## 📌 Areas of Interest
+# 📌 Areas of Interest
 
-- 📊 Business & Data Analytics
-- 💰 Financial Analysis
-- 📈 Business Intelligence
-- 🧮 Financial Modelling
-- 🛒 E-commerce & Business
-- ⚙️ Automation
-- 💻 Technology
+📊 Business & Data Analytics · 💰 Financial Analysis · 📈 Business Intelligence  
+🧮 Financial Modelling · 🛒 E-commerce & Business · ⚙️ Automation · 💻 Technology
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <div align="center">
 
@@ -128,17 +157,21 @@ Python projects for data analysis, finance and business automation.
 
 ---
 
-## 🌱 Currently Learning
+# 🌱 Currently Learning
 
 **MBA Finance · Business Analytics · Advanced Excel · Power BI · SQL · Python · Pandas · NumPy**
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 
-<p>
-<a href="https://github.com/ZaidFinanceTech"><img src="https://img.shields.io/badge/GitHub-ZaidFinanceTech-181717?style=for-the-badge&logo=github" /></a>
-</p>
+<div align="center">
+
+<a href="https://github.com/ZaidFinanceTech">
+<img src="https://img.shields.io/badge/GitHub-ZaidFinanceTech-181717?style=for-the-badge&logo=github" />
+</a>
+
+</div>
 
 ---
 
