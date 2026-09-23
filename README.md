@@ -49,7 +49,7 @@ Deoband, Uttar Pradesh · Completed
 <td align="center"><img src="https://cdn.simpleicons.org/python" width="55"><br><b>Python</b></td>
 <td align="center"><img src="https://cdn.simpleicons.org/pandas" width="55"><br><b>Pandas</b></td>
 <td align="center"><img src="https://cdn.simpleicons.org/numpy" width="55"><br><b>NumPy</b></td>
-<td align="center"><img src="https://cdn.simpleicons.org/matplotlib" width="55"><br><b>Matplotlib</b></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="55"><br><b>Matplotlib</b></td>
 <td align="center"><img src="https://cdn.simpleicons.org/jupyter" width="55"><br><b>Jupyter</b></td>
 </tr>
 </table>
@@ -60,7 +60,7 @@ Deoband, Uttar Pradesh · Completed
 <div align="center">
 <table>
 <tr>
-<td align="center"><img src="https://cdn.simpleicons.org/c" width="55"><br><b>C</b></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="55"><br><b>C</b></td>
 <td align="center"><img src="https://cdn.simpleicons.org/mysql" width="55"><br><b>MySQL</b></td>
 <td align="center"><img src="https://cdn.simpleicons.org/postgresql" width="55"><br><b>PostgreSQL</b></td>
 <td align="center"><img src="https://cdn.simpleicons.org/googlecloud" width="55"><br><b>Google Cloud</b></td>
@@ -90,11 +90,11 @@ Deoband, Uttar Pradesh · Completed
 <div align="center">
 <table>
 <tr>
-<td align="center"><img src="https://cdn.simpleicons.org/canva" width="55"><br><b>Canva</b></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="55"><br><b>Canva</b></td>
 <td align="center"><img src="https://cdn.simpleicons.org/googlesheets" width="55"><br><b>Google Sheets</b></td>
 <td align="center"><img src="https://img.icons8.com/color/96/shopping-cart.png" width="55"><br><b>E-commerce</b></td>
 <td align="center"><img src="https://img.icons8.com/color/96/video-editing.png" width="55"><br><b>Content Creation</b></td>
-<td align="center"><img src="https://img.icons8.com/color/96/automation.png" width="55"><br><b>Automation</b></td>
+<td align="center"><img src="https://cdn.simpleicons.org/robotframework" width="55"><br><b>Automation</b></td>
 <td align="center"><img src="https://cdn.simpleicons.org/github" width="55"><br><b>GitHub</b></td>
 </tr>
 </table>
