@@ -55,6 +55,20 @@ Deoband, Uttar Pradesh · Completed
 </table>
 </div>
 
+## 💻 Development & Cloud
+
+<div align="center">
+<table>
+<tr>
+<td align="center"><img src="https://cdn.simpleicons.org/c" width="55"><br><b>C</b></td>
+<td align="center"><img src="https://cdn.simpleicons.org/mysql" width="55"><br><b>MySQL</b></td>
+<td align="center"><img src="https://cdn.simpleicons.org/postgresql" width="55"><br><b>PostgreSQL</b></td>
+<td align="center"><img src="https://cdn.simpleicons.org/googlecloud" width="55"><br><b>Google Cloud</b></td>
+<td align="center"><img src="https://cdn.simpleicons.org/git" width="55"><br><b>Git</b></td>
+</tr>
+</table>
+</div>
+
 ## 💰 Finance & Business
 
 <div align="center">
